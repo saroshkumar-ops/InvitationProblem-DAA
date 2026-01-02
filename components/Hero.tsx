@@ -138,28 +138,6 @@ export default function Hero() {
                         View Code
                     </motion.a>
                 </motion.div>
-
-                {/* Stats row */}
-                <motion.div
-                    initial={{ opacity: 0, y: 20 }}
-                    animate={{ opacity: 1, y: 0 }}
-                    transition={{ duration: 0.6, delay: 0.8 }}
-                    className="mt-20 flex flex-wrap justify-center gap-12"
-                >
-                    {[
-                        { value: '8', label: 'Nodes' },
-                        { value: '23', label: 'Min Cost' },
-                    ].map((stat, i) => (
-                        <div key={i} className="text-center">
-                            <div className="text-3xl md:text-4xl font-bold font-mono text-primary mb-1">
-                                {stat.value}
-                            </div>
-                            <div className="text-xs uppercase tracking-widest text-text-tertiary">
-                                {stat.label}
-                            </div>
-                        </div>
-                    ))}
-                </motion.div>
             </div>
 
             {/* Scroll indicator */}

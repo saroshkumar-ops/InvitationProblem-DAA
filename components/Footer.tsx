@@ -43,7 +43,9 @@ export default function Footer() {
                     </p>
                     <div className="flex items-center gap-6">
                         <motion.a
-                            href="#"
+                            href="https://github.com/saroshkumar-ops/InvitationProblem-DAA"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             whileHover={{ scale: 1.1 }}
                             className="text-text-tertiary hover:text-primary transition"
                         >

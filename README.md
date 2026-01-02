@@ -50,10 +50,10 @@ This real-world constraint mapping problem is solved using:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/invitation-problem.git
+git clone https://github.com/saroshkumar-ops/InvitationProblem-DAA.git
 
 # Navigate to project directory
-cd invitation-problem/nextjs-migration
+cd InvitationProblem-DAA
 
 # Install dependencies
 npm install

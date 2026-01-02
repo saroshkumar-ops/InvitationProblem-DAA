@@ -100,7 +100,9 @@ export default function Team() {
                     <motion.a
                         whileHover={{ scale: 1.02, boxShadow: '0 0 30px rgba(168, 85, 247, 0.3)' }}
                         whileTap={{ scale: 0.98 }}
-                        href="#"
+                        href="https://github.com/saroshkumar-ops/InvitationProblem-DAA"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="inline-flex items-center gap-3 px-6 py-3 rounded-lg glass border border-primary/30 text-primary font-mono uppercase tracking-wider text-sm hover:bg-primary/10 transition"
                     >
                         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
