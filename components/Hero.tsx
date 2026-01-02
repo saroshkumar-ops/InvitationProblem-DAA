@@ -148,7 +148,6 @@ export default function Hero() {
                 >
                     {[
                         { value: '8', label: 'Nodes' },
-                        { value: 'O(E log V)', label: 'Complexity' },
                         { value: '23', label: 'Min Cost' },
                     ].map((stat, i) => (
                         <div key={i} className="text-center">

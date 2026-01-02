@@ -39,7 +39,7 @@ export default function Footer() {
                 {/* Bottom */}
                 <div className="pt-8 border-t border-border-subtle flex flex-col md:flex-row justify-between items-center gap-4">
                     <p className="text-xs text-text-tertiary font-mono">
-                        © 2024 Graph Optimization Project
+                        © 2025 Design and Analysis of Algorithms Project
                     </p>
                     <div className="flex items-center gap-6">
                         <motion.a

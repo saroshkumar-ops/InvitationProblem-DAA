@@ -122,7 +122,7 @@ export default function LizardAzarr() {
                                 setTooltipMessage(appreciation);
                                 setTooltipType('team');
                                 setShowTooltip(true);
-                                setTimeout(() => setShowTooltip(false), 5000);
+                                setTimeout(() => setShowTooltip(false), 7000);
                             }
                         } else {
                             setIsAtTeam(false);
@@ -195,7 +195,7 @@ export default function LizardAzarr() {
                     setTooltipType('fact');
                 }
                 setShowTooltip(true);
-                setTimeout(() => setShowTooltip(false), 5000);
+                setTimeout(() => setShowTooltip(false), 7000);
             }, 350);
         }
     };
