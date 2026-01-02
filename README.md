@@ -130,7 +130,7 @@ This project was created as part of the Design and Analysis of Algorithms course
 ## 🙏 Acknowledgments
 
 - KLE Technological University, Hubli
-- Course instructors and mentors
+- Our mentor, Priyadarshini Patil
 - The open-source community for amazing tools
 
 ---
