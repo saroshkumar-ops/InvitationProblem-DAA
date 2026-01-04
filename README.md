@@ -115,7 +115,7 @@ nextjs-migration/
 | Name | Role |
 |------|------|
 | **Sarosh** | Developer |
-| **Shrihari Deshpande** | Developer |
+| **Shrihari Deshapande** | Developer |
 | **Sudhanva S Kulkarni** | Developer |
 | **Abhishek K** | Developer |
 
