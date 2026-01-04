@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 const teamMembers = [
     { name: 'Sarosh', initials: 'S', gradient: 'from-primary to-secondary' },
-    { name: 'Shrihari Deshpande', initials: 'SD', gradient: 'from-secondary to-accent' },
+    { name: 'Shrihari Deshapande', initials: 'SD', gradient: 'from-secondary to-accent' },
     { name: 'Sudhanva S Kulkarni', initials: 'SK', gradient: 'from-accent to-primary' },
     { name: 'Abhishek K', initials: 'AK', gradient: 'from-primary to-accent' },
 ];
